@@ -1,7 +1,8 @@
 # ⚡ iths.online
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="iths.online logo" width="200">
+  <!-- Upload your image to the repo and reference it like this -->
+  <img src="lightning.png" alt="iths.online logo" width="250">
 </p>
 
 <p align="center">
@@ -24,22 +25,12 @@
 ---
 
 ### 🚀 About Us
-Welcome to **iths.online**! This is a creative workspace where we focus on building **cool projects** and making meaningful **contributions to the open-source ecosystem**. We believe in clean code, innovative solutions, and the power of community collaboration.
+Welcome to **iths.online**! We focus on building **cool projects** and making meaningful **contributions to open-source**. 
 
-### 🛠️ Tech Stack & Tools
-We experiment with a variety of technologies to bring ideas to life:
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Python, PostgreSQL
-- **DevOps:** Docker, GitHub Actions, Vercel
-- **Design:** Figma, Adobe XD
-
-### 🤝 Join the Organization
-We are always looking for passionate developers, designers, and open-source enthusiasts to join our mission. 
-
-**Want to be a member?** 
-1. Explore our [repositories](https://github.com).
-2. If you see something you love or want to start something new under our banner, **please email us**.
-3. Send a well-designed introduction to **[harinand@iths.online](mailto:harinand@iths.online)**. Tell us about your skills and why you'd like to collaborate!
+### 🤝 Join Us
+We are looking for passionate members! 
+- **To Join:** Please send a well-designed email to **[harinand@iths.online](mailto:harinand@iths.online)**.
+- Include your GitHub profile and tell us what you'd like to build together!
 
 ---
 
@@ -47,6 +38,3 @@ We are always looking for passionate developers, designers, and open-source enth
 ![GitHub Top Languages](https://vercel.app)
 ![GitHub Stats](https://vercel.app)
 
-<p align="center">
-  <i>"Turning ideas into digital reality, one commit at a time."</i>
-</p>
